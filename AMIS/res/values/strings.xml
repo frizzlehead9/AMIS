@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--Main Activity-->
     <string name="app_name">AMIS</string>
     <string name="welcome_text">Welcome to AMIS!</string>
     <string name="configure_button_text">Configure Profile</string>
     <string name="am_i_safe_button_text">Am I Safe?</string>
+
+
+    <!--Configure Activity-->
+    <string name="age_text">Age:</string>
+    <string name="religion_text">Religion:</string>
+    <string name="ethnicity_text">Ethnicity:</string>
+    <string name="political_affiliation_text">Political Affiliation:</string>
+    <string name="gender">Gender:</string>
 </resources>
