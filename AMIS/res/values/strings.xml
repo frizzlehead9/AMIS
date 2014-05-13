@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AMIS</string>
+    <string name="welcome_text">Welcome to AMIS!</string>
+    <string name="configure_button_text">Configure Profile</string>
+    <string name="am_i_safe_button_text">Am I Safe?</string>
 </resources>

@@ -1,7 +1,8 @@
-package com.example.amis;
+package com.issinc.amis;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.example.amis.R;
 
 public class MainActivity extends Activity {
     /**
